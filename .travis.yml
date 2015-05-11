@@ -1,7 +1,9 @@
 language: ruby
 rvm:
-  - 2.2.2
+- 2.2.2
 notifications:
   email:
     on_success: never
     on_failure: never
+  slack:
+    secure: ZMVe41EgR4X/SW0yyR19YXe/Z5u0S+f1z/iMcni+iQrvecdMM8oUAtWnt9ww+lI0Sosg9r2oS56ZE792S5w3UM3tujipPRTMleZla+Otge6e+6LHEte76IMGUQO2NiZicq+tibaAadHu/XMYO6rabq9aLoyMX4CkFLMurT7inO0do9mnSR4Qoy2i6ApRyD4tTrF4izBth0mPCRRdsrfgz0uo5Zk7HLK4MIqY3ewBcfQMinlBry9gYyyNnLSzv3BlmrClZwADje2D+17z4APiC3JBflyOvqNsFlbWRpNVVwrr82sFZWhWGjYcLyMykL/p9IRe54yiV/uS0rLStXUUZbRSuqNVxfQ7CLkXvZIsS3chOwiF/rdotn9xdqIlBFPPFNTlGkNWxhEPW9LGiMMX5RkVYq0OUuzC0lq8AQYNOTyKI+qsi+F4K9tzgoA94HyS9NNz+JRBusVSoHGdPqVZyMzKfGOoACjxXj1NSVnQDDTcSQxSUyUvaAul0xDOxvTlrxU92CB53eb6L0dqwIoPUGsbrq6CbMEXgtqXK8coiXhN1iwkYoYmtExrwABx2F22/LIo9kKDoDvmWw1EJpHOi3he/DNcDNYnMFCnNL05eH7HbuMVdd1AnJWotb2cwrnTsv+31DO3FOUsPlo/z3QkjFDqhghfnKuqJqXUS6Lgk9U=
