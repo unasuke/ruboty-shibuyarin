@@ -5,74 +5,143 @@
     text: "ふーん、アンタが私のプロデューサー？……まあ、悪くないかな…。私は渋谷凛。今日からよろしくね。"
     type: profile
     rarity: normal
+    training: 0
   - id: 2
     text: "#プロデューサー｡……私､もっと頑張るから"
     type: dear_up
     rarity: normal
+    training: 0
   - id: 3
     text: "いつもありがとう。私、愛想ないから、あんまり伝わらないかもしれないけど…#プロデューサーには感謝してるよ"
     type: dear_max
     rarity: normal
+    training: 0
   - id: 4
     text: "…私たちは負けないよ"
     type: leader
     rarity: normal
+    training: 0
   - id: 5
     text: "後で学校の宿題やらなきゃ……"
     type: greeting
     rarity: normal
+    training: 0
   - id: 6
     text: "今日はLiveやらない？"
     type: greeting
     rarity: normal
+    training: 0
   - id: 7
     text: "#プロデューサー。この後は何するの？"
     type: greeting
     rarity: normal
+    training: 0
   - id: 8
     text: "準備できた？ じゃ､仕事いくよ"
     type: greeting
     rarity: normal
+    training: 0
   - id: 9
     text: "#プロデューサー。お茶入れたけど、飲む？"
     type: greeting
     rarity: normal
+    training: 0
   - id: 10
     text: "お疲れ様でした"
     type: end_of_work
     rarity: normal
+    training: 0
   - id: 11
     text: "ありがとうございました"
     type: end_of_work
     rarity: normal
+    training: 0
   - id: 12
     text: "………なにか？"
     type: end_of_work
     rarity: normal
+    training: 0
   - id: 13
     text: "#プロデューサー。お客さん、喜んでくれたかな？"
     type: end_of_work
     rarity: normal
+    training: 0
   - id: 14
     text: "#プロデューサー、休んでる暇はないよ？"
     type: end_of_work
     rarity: normal
+    training: 0
+  - id: 15
+    text: "ふふっ、どう？ こんな格好するの初めてだけど、ちょっと嬉しいかな、…ありがとう、プロデューサー"
+    type: profile
+    rarity: normal
+    training: 1
+  - id: 16
+    text: "#プロデューサー。ずっと私と一緒にいてね"
+    type: dear_up
+    rarity: normal
+    training: 1
+  - id: 17
+    text: "……#プロデューサーの隣にいると安心するんだ。ふふっ、これからも隣で私のこと、見ててね"
+    type: dear_max
+    rarity: normal
+    training: 1
+  - id: 18
+    text: "いくよ、みんな！"
+    type: leader
+    rarity: normal
+    training: 1
+  - id: 19
+    text: "今日はレッスンでもしない？"
+    type: greeting
+    rarity: normal
+    training: 1
+  - id: 20
+    text: "今日はLiveやらない？"
+    type: greeting
+    rarity: normal
+    training: 1
+  - id: 21
+    text: "準備できた？ じゃ、仕事いくよ"
+    type: greeting
+    rarity: normal
+    training: 1
+  - id: 22
+    text: "ねぇ#プロデューサー。今日は何しようか？"
+    type: greeting
+    rarity: normal
+    training: 1
+  - id: 23
+    text: "#プロデューサー。いつも会いにきてくれてありがと"
+    type: greeting
+    rarity: normal
+    training: 1
+  - id: 24
+    text: "ありがとうございました"
+    type: end_of_work
+    rarity: normal
+    training: 1
+  - id: 25
+    text: "……まだまだいけるよ"
+    type: end_of_work
+    rarity: normal
+    training: 1
+  - id: 26
+    text: "お疲れ様でした"
+    type: end_of_work
+    rarity: normal
+    training: 1
+  - id: 27
+    text: "次は、衣装手に入るといいね…#プロデューサー"
+    type: end_of_work
+    rarity: normal
+    training: 1
+  - id: 28
+    text: "#プロデューサー。ちゃんと見ててくれた？"
+    type: end_of_work
+    rarity: normal
+    training: 1
 
-#
-# プロフィールコメント	「ふふっ、どう？ こんな格好するの初めてだけど、ちょっと嬉しいかな、…ありがとう、プロデューサー」
-# 親愛度ＵＰコメント	表示 「○○プロデューサー。ずっと私と一緒にいてね」
-# 親愛度ＭＡＸコメント	表示 「……○○プロデューサーの隣にいると安心するんだ。ふふっ、これからも隣で私のこと、見ててね」
-# リーダーコメント	「いくよ、みんな！」
-# あいさつ	「今日はレッスンでもしない？」
-# あいさつ	「今日はLiveやらない？」
-# あいさつ	「準備できた？ じゃ、仕事いくよ」
-# あいさつ	「ねぇ○○プロデューサー。今日は何しようか？」
-# あいさつ	表示 「○○プロデューサー。いつも会いにきてくれてありがと」
-# 仕事終了時	「ありがとうございました」
-# 仕事終了時	「……まだまだいけるよ」
-# 仕事終了時	「お疲れ様でした」
-# 仕事終了時	「次は、衣装手に入るといいね…○○プロデューサー」
-# 仕事終了時	表示 「○○プロデューサー。ちゃんと見ててくれた？」
 #
 # 通常コメント	「誕生日？ あぁ、そっか。ふーん、プロデューサーもお祝いしてくれるんだ…ありがと。…あらためてお祝いされると、変な感じだね」
 # レベルＭＡＸコメント	表示 「さてと、じゃあ、行こっか。みんなも、私たちを待ってると思うから。プロデューサも…もちろん、来てくれるでしょ」
