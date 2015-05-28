@@ -216,39 +216,158 @@
     type: event_normal
     rarity: normal
     training: 0
+  - id: 44
+    text: "いらっしゃいませ…ってなんだプロデューサーか。…何か用？花でも見ていく？"
+    type: affiliation
+    rarity: s_rare
+    training: 0
+  - id: 45
+    text: "どうやらうちのハナコもプロデューサーのこと気にいったみたいだよ。よかったね。ふふっ…"
+    type: affiliation
+    rarity: s_rare
+    training: 0
+  - id: 46
+    text: "私のプロデュース、これからもよろしくね。トップの道は甘くないんだからさ"
+    type: affiliation
+    rarity: s_rare
+    training: 0
+  - id: 47
+    text: "いらっしゃいませ……って、何だプロデューサーか。…何か用? …………え? 花屋でバイトしてたのかって。ここ、私の家なんだけど"
+    type: profile
+    rarity: s_rare
+    training: 0
+  - id: 48
+    text: "いつもありがとね……。#プロデューサー"
+    type: dear_up
+    rarity: s_rare
+    training: 0
+  - id: 49
+    text: "ねぇ、#プロデューサー。これからもずっと私の隣にいてね。……約束だよ？"
+    type: dear_max
+    rarity: s_rare
+    training: 0
+  - id: 50
+    text: "……私はいつでも本気だよ"
+    type: leader
+    rarity: s_rare
+    training: 0
+  - id: 51
+    text: "私の家、花屋やってるんだ"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 51
+    text: "学校？ 今日は休みだよ"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 52
+    text: "うちの犬､可愛いでしょ？"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 53
+    text: "#プロデューサーは犬派？猫派？ ……私は…どっちも好き"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 54
+    text: "…#プロデューサー｡お菓子食べる？"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 55
+    text: "#プロデューサーは、花を買ったりするの？"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 56
+    text: "(帰ったらお散歩いこうかな…)"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 57
+    text: "……何？"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 58
+    text: "お疲れ様でした"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 59
+    text: "うちの犬、#プロデューサーのことが気に入ったみたい"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 60
+    text: "初めて会った時は、私のためにここまでしてくれるなんて思ってなかった……。ありがとう、プロデューサー。ふふっ、今度は私がプロデューサーのために頑張る番だね"
+    type: profile
+    rarity: s_rare
+    training: 1
+  - id: 61
+    text: "#プロデューサー、ぼーっとしてたら追いてっちゃうよ"
+    type: dear_up
+    rarity: s_rare
+    training: 1
+  - id: 62
+    text: "#プロデューサー、私をここまで連れて来てくれてありがとう……。さすが私のプロデューサー、かな。ふふふっ"
+    type: dear_max
+    rarity: s_rare
+    training: 1
+  - id: 63
+    text: "……手加減はしないよ"
+    type: leader
+    rarity: s_rare
+    training: 1
+  - id: 64
+    text: "……今日はどこで仕事？"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 65
+    text: "……お疲れ様。#プロデューサーは毎日元気だね"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 66
+    text: "学校？ 今日は休みだよ"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 67
+    text: "立ち止まってる暇はないよ、#プロデューサー"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 68
+    text: "……移動中にサイン頼まれたんだ。…私のファンだって……嬉しいな"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 69
+    text: "お疲れ様でした"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 70
+    text: "……何？"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 71
+    text: "トップヘの道は甘くないよ"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 72
+    text: "……私たち、最近いつも一緒に居るね。#プロデューサー"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
 
-# ガチャ所属時コメント	「いらっしゃいませ…ってなんだﾌﾟﾛﾃﾞｭｰｻｰか。…何か用?花でも見ていく?」
-# ガチャ所属時コメント	「どうやらうちのﾊﾅｺもﾌﾟﾛﾃﾞｭｰｻｰのこと気にいったみたいだよ。よかったね。ふふっ…」
-# ガチャ所属時コメント	「私のﾌﾟﾛﾃﾞｭｰｽ、これからもよろしくね。ﾄｯﾌﾟの道は甘くないんだからさ」
-# プロフィールコメント	「いらっしゃいませ……って、何だﾌﾟﾛﾃﾞｭｰｻｰか。…何か用? …………え? 花屋でﾊﾞｲﾄしてたのかって。ここ、私の家なんだけど」
-# 親愛度ＵＰコメント	表示 「いつもありがとね……。○○ﾌﾟﾛﾃﾞｭｰｻｰ」
-# 親愛度ＭＡＸコメント	表示 「ねぇ、○○ﾌﾟﾛﾃﾞｭｰｻｰ。これからもずっと私の隣にいてね。……約束だよ？」
-# リーダーコメント	「……私はいつでも本気だよ」
-# あいさつ	「私の家、花屋やってるんだ」
-# あいさつ	「学校? 今日は休みだよ」
-# あいさつ	「うちの犬､可愛いでしょ?」
-# あいさつ	「○○ﾌﾟﾛﾃﾞｭｰｻｰは犬派?猫派? ……私は…どっちも好き」
-# あいさつ	表示 「…○○ﾌﾟﾛﾃﾞｭｰｻｰ｡お菓子食べる?」
-# 仕事終了時	「◯◯ﾌﾟﾛﾃﾞｭｰｻｰは、花を買ったりするの?」
-# 仕事終了時	「(帰ったらお散歩いこうかな…)」
-# 仕事終了時	「……何?」
-# 仕事終了時	「お疲れ様でした」
-# 仕事終了時	表示 「うちの犬、○○ﾌﾟﾛﾃﾞｭｰｻｰのことが気に入ったみたい」
-#
-# プロフィールコメント	「初めて会った時は、私のためにここまでしてくれるなんて思ってなかった……。ありがとう、ﾌﾟﾛﾃﾞｭｰｻｰ。ふふっ、今度は私がﾌﾟﾛﾃﾞｭｰｻｰのために頑張る番だね」
-# 親愛度ＵＰコメント	表示 「◯◯ﾌﾟﾛﾃﾞｭｰｻｰ、ぼーっとしてたら追いてっちゃうよ」
-# 親愛度ＭＡＸコメント	表示 「◯◯ﾌﾟﾛﾃﾞｭｰｻｰ、私をここまで連れて来てくれてありがとう……。さすが私のﾌﾟﾛﾃﾞｭｰｻｰ、かな。ふふふっ」
-# リーダーコメント	「……手加減はしないよ」
-# あいさつ	「……今日はどこで仕事？」
-# あいさつ	「……お疲れ様。◯◯ﾌﾟﾛﾃﾞｭｰｻｰは毎日元気だね」
-# あいさつ	「うちの犬、可愛いでしょ？」
-# あいさつ	「学校? 今日は休みだよ」
-# あいさつ	表示 「立ち止まってる暇はないよ、◯◯ﾌﾟﾛﾃﾞｭｰｻｰ」
-# 仕事終了時	「……移動中にｻｲﾝ頼まれたんだ。…私のﾌｧﾝだって……嬉しいな」
-# 仕事終了時	「お疲れ様でした」
-# 仕事終了時	「……何?」
-# 仕事終了時	「ﾄｯﾌﾟヘの道は甘くないよ」
-# 仕事終了時	表示 「……私たち、最近いつも一緒に居るね。◯◯ﾌﾟﾛﾃﾞｭｰｻｰ」
+
 #
 #
 # 出現時	「ここがローマの街…か。歓声が聞こえるね…。じゃあ…残していこうか、私たちの足跡…！」
