@@ -366,28 +366,82 @@
     type: end_of_work
     rarity: s_rare
     training: 1
+  - id: 73
+    text: "ここがローマの街…か。歓声が聞こえるね…。じゃあ…残していこうか、私たちの足跡…！"
+    type: encountering
+    rarity: s_rare
+    training: 0
+  - id: 74
+    text: "みんな、行くよ！"
+    type: live_start
+    rarity: s_rare
+    training: 0
+  - id: 75
+    text: "少しは本場の歌に近づけたかな？なにより…楽しめたと思う"
+    type: live_victory
+    rarity: s_rare
+    training: 0
+  - id: 76
+    text: "この声援､勝負は引き分け､かな｡でも…まだ歌える！"
+    type: live_draw
+    rarity: s_rare
+    training: 0
+  - id: 77
+    text: "さぁ、歓声に応えて。みんな、あなたたちを称えているんだから！"
+    type: live_defeat
+    rarity: s_rare
+    training: 0
+  - id: 78
+    text: "ヴェニスの水音は静かだね｡でも私たちは消えない音を刻みたい…｡この国の…ファンの心に…！"
+    type: encountering
+    rarity: s_rare
+    training: 0
+  - id: 79
+    text: "水の都に歌を！"
+    type: live_start
+    rarity: s_rare
+    training: 0
+  - id: 80
+    text: "運河からの風…涼しくて気持ちいいな…｡ふふっ､またね"
+    type: live_victory
+    rarity: s_rare
+    training: 0
+  - id: 81
+    text: "なに? ううん、加蓮も楽しかったみたい。もう一回、やろっか"
+    type: live_draw
+    rarity: s_rare
+    training: 0
+  - id: 82
+    text: "ふふ､奈緒が褒めるなんて珍しいね｡いい勝負だったから､かな"
+    type: live_defeat
+    rarity: s_rare
+    training: 0
+  - id: 83
+    text: "ステージのスポットライトに照らされて…私たちもきっと輝ける…。さぁ、LIVEの時間だよ！"
+    type: encountering
+    rarity: s_rare
+    training: 0
+  - id: 84
+    text: "私たちのLIVE…魅せるよ！"
+    type: live_start
+    rarity: s_rare
+    training: 0
+  - id: 85
+    text: "私たちなら…きっとどんな困難だって乗り越えていけるよ"
+    type: live_victory
+    rarity: s_rare
+    training: 0
+  - id: 86
+    text: "なかなかやるね。また一緒にLIVE出来るのを楽しみにしてるよ"
+    type: live_draw
+    rarity: s_rare
+    training: 0
+  - id: 87
+    text: "やるね。でも私たちだってもっと輝ける！次は負けないよ！"
+    type: live_defeat
+    rarity: s_rare
+    training: 0
 
-
-#
-#
-# 出現時	「ここがローマの街…か。歓声が聞こえるね…。じゃあ…残していこうか、私たちの足跡…！」
-# Live開始時	「みんな、行くよ！」
-# 勝利	「少しは本場の歌に近づけたかな？なにより…楽しめたと思う」
-# 引き分け	「この声援､勝負は引き分け､かな｡でも…まだ歌える!」
-# 敗北	「さぁ、歓声に応えて。みんな、あなたたちを称えているんだから！」
-#
-# 出現時	「ヴェニスの水音は静かだね｡でも私たちは消えない音を刻みたい…｡この国の…ファンの心に…!」
-# Live開始時	「水の都に歌を!」
-# 勝利	「運河からの風…涼しくて気持ちいいな…｡ふふっ､またね」
-# 引き分け	「なに? ううん、加蓮も楽しかったみたい。もう一回、やろっか」
-# 敗北	「ふふ､奈緒が褒めるなんて珍しいね｡いい勝負だったから､かな」
-#
-# 出現時	「ステージのスポットライトに照らされて…私たちもきっと輝ける…。さぁ、LIVEの時間だよ！」
-# Live開始時	「私たちのLIVE…魅せるよ！」
-# 勝利	「私たちなら…きっとどんな困難だって乗り越えていけるよ」
-# 引き分け	「なかなかやるね。また一緒にLIVE出来るのを楽しみにしてるよ」
-# 敗北	「やるね。でも私たちだってもっと輝ける！次は負けないよ！」
-#
 # 加入時コメント	「○○ﾌﾟﾛﾃﾞｭｰｻｰ、私ついにCDﾃﾞﾋﾞｭｰ出来たよ。ずっと…隣にいてくれたからかな?
 # ふふっ、これからも一緒に頑張ろうね」
 # プロフィールコメント	「CDﾃﾞﾋﾞｭｰなんて特別でも何でもないけど､やっぱり嬉しいな｡ﾌﾟﾛﾃﾞｭｰｻｰもちゃんと仕事してるんだね｡
