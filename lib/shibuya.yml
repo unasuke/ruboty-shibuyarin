@@ -216,6 +216,7 @@
     type: event_normal
     rarity: normal
     training: 0
+# New generaion
   - id: 44
     text: "いらっしゃいませ…ってなんだプロデューサーか。…何か用？花でも見ていく？"
     type: affiliation
@@ -587,28 +588,103 @@
     type: end_of_work
     rarity: s_rare
     training: 1
+# iolite gothic
+  - id: 117
+    text: "ふふっ、プロデューサー、私のためにありがとう。こんなに素敵なドレスを着せてもらって、こんなに素敵なステージまで用意してもらったら…あとは頑張るしかないね。全力で、駆け抜けてみせるから"
+    type: profile
+    rarity: s_rare
+    training: 1
+  - id: 118
+    text: "#プロデューサー、私たちなら最高のステージを作れるよね"
+    type: dear_up
+    rarity: s_rare
+    training: 1
+  - id: 119
+    text: "ねぇ、#プロデューサー。こんな大舞台、さすがに私もドキドキするよ。…大丈夫。きっと、私たちなら出来るよね…ありがと"
+    type: dear_max
+    rarity: s_rare
+    training: 1
+  - id: 120
+    text: "さぁ、走りだそう"
+    type: leader
+    rarity: s_rare
+    training: 1
+  - id: 121
+    text: "花屋のバイト経験ならあるけど…"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 122
+    text: "あ、コンビニ行くけど、何かいる？"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 123
+    text: "#プロデューサー、好きな色ってある？ 私は蒼が好きかな"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 124
+    text: "はいコレ。コーヒーでよかったのかな"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 125
+    text: "#プロデューサーが着せてくれたドレスだから、大事なんだ"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 126
+    text: "キャンペーンの仕事だね、分かった"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 127
+    text: "お疲れ様。コーラで良ければどうぞ"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 128
+    text: "#プロデューサー、お仕事しすぎて身体壊さないでよ？"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 129
+    text: "ふ…ちょっと頑張りすぎたかな"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 130
+    text: "#プロデューサー、いつまでも見守っててね"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 131
+    text: "こんなに熱い場所がある…。なら私たちは歌うしかないよ"
+    type: encountering
+    rarity: s_rare
+    training: 1
+  - id: 132
+    text: "素直になろうよ、お互いに"
+    type: live_start
+    rarity: s_rare
+    training: 1
+  - id: 133
+    text: "私の方が、本気だったみたいね。ふふ、歌うのは楽しくて"
+    type: live_victory
+    rarity: s_rare
+    training: 1
+  - id: 134
+    text: "ふふっ、いい勝負だね。じゃあ、次の曲にいってみようか"
+    type: live_draw
+    rarity: s_rare
+    training: 1
+  - id: 135
+    text: "まだ照れがあるかな…。でも、次はきっと負けないから"
+    type: live_defeat
+    rarity: s_rare
+    training: 1
 
-#
-# プロフィールコメント	「ふふっ、プロデューサー、私のためにありがとう。こんなに素敵なドレスを着せてもらって、こんなに素敵なステージまで用意してもらったら…あとは頑張るしかないね。全力で、駆け抜けてみせるから」
-# 親愛度ＵＰコメント	表示 「○○プロデューサー、私たちなら最高のステージを作れるよね」
-# 親愛度ＭＡＸコメント	表示 「ねぇ、○○プロデューサー。こんな大舞台、さすがに私もドキドキするよ。…大丈夫。きっと、私たちなら出来るよね…ありがと」
-# リーダーコメント	「さぁ、走りだそう」
-# あいさつ	「花屋のバイト経験ならあるけど…」
-# あいさつ	「あ、コンビニ行くけど、何かいる？」
-# あいさつ	「○○プロデューサー、好きな色ってある？ 私は蒼が好きかな」
-# あいさつ	「はいコレ。コーヒーでよかったのかな」
-# あいさつ	表示 「○○プロデューサーが着せてくれたドレスだから、大事なんだ」
-# 仕事終了時	「キャンペーンの仕事だね、分かった」
-# 仕事終了時	「お疲れ様。コーラで良ければどうぞ」
-# 仕事終了時	「○○プロデューサー、お仕事しすぎて身体壊さないでよ？」
-# 仕事終了時	「ふ…ちょっと頑張りすぎたかな」
-# 仕事終了時	表示 「○○プロデューサー、いつまでも見守っててね」
-#
-# 出現時	「こんなに熱い場所がある…。なら私たちは歌うしかないよ」
-# Live開始時	「素直になろうよ、お互いに」
-# 勝利	「私の方が、本気だったみたいね。ふふ、歌うのは楽しくて」
-# 引き分け	「ふふっ、いい勝負だね。じゃあ、次の曲にいってみようか」
-# 敗北	「まだ照れがあるかな…。でも、次はきっと負けないから」
 #
 # ガチャ所属時	「卯月、未央、遊びじゃないんだからね。なんでって、それは…い、いいから作るよ、プロデューサーの為に…あっ」
 # ガチャ所属時	「」
