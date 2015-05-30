@@ -830,40 +830,177 @@
     type: end_of_work
     rarity: s_rare
     training: 1
-#
-# ガチャ所属時	「こんなに気持ちいいお湯だと、お仕事で来たこと、忘れちゃうな…。はぁ…LIVEも頑張ろう。みんなと…！」
-# ガチャ所属時	「」
-# ガチャ所属時	「」
-# プロフィールコメント	「はぁ…温泉なんて、って思ってたけど…こういうのも悪くないかな…。二人が居たのは予想外だったけど…でも､今夜のこともきっとこれから活かしていけるかな。はぁ…」
-# 親愛度ＵＰコメント	表示 「大人になりたいって思う私はまだ子供なのかも…なんてね」
-# 親愛度ＭＡＸコメント	表示 「○○プロデューサーには…秘密なんだ。いいの。大人のおねーさんたちが約束してくれたからね。ふふっ」
-# リーダーコメント	「行くよ、二人とも！」
-# あいさつ	「なんか…恥ずかしくなってきた」
-# あいさつ	「ふふ、こういうのも悪くないね」
-# あいさつ	「あの、お酒はちょっと、あの」
-# あいさつ	「肌と肌のふれあいなんてって思ってたけど…悪くない、かな」
-# あいさつ	表示 「プロデューサー、どうしてるかな。…ってなんでプロデューサーの事なんか」
-# 仕事終了時	「心機一転…って感じかな」
-# 仕事終了時	「ふぅ…そろそろいこうか」
-# 仕事終了時	「もうお仕事? ちょっと待って！」
-# 仕事終了時	「私、気付いたんだ。独りで前ばっかり見ててもダメなんだって」
-# 仕事終了時	表示 「○○プロデューサー…私、これからも走り続けるよ。皆と…」
-#
-#
-# プロフィールコメント	「私は独りで走ってるつもりだったけど、違ったんだ。きっとみんながいるから輝けるんだって、今は思う。だから…このｽﾃｰｼﾞはきっと成功させてみせる！見てて！◯◯プロデューサー！」
-# 親愛度ＵＰコメント	表示 「◯◯プロデューサー、いつもありがとう…なんて、ベタかな」
-# 親愛度ＭＡＸコメント	表示 「◯◯プロデューサーは引率の先生なんかじゃなかったよ。私たちのプロデューサーは、アンタしかいないってこと。なんてね」
-# リーダーコメント	「きっと、届けるから！」
-# あいさつ	「なんか…恥ずかしくなってきた」
-# あいさつ	「ふふ、こういうのも悪くないね」
-# あいさつ	「和服慣れないな…動きづらいし」
-# あいさつ	「◯◯プロデューサー、温泉は楽しめた？…どうしたの？」
-# あいさつ	表示 「◯◯プロデューサーも和装になってみたら？気分、変わるよ」
-# 仕事終了時	「心機一転…って感じかな」
-# 仕事終了時	「ふぅ…そろそろいこうか」
-# 仕事終了時	「うん。準備はもう出来てるから」
-# 仕事終了時	「未央、卯月、行くよ。私たちならできるから。きっと…絶対ね」
-# 仕事終了時	表示 「皆だけじゃない。◯◯プロデューサーがいるから歌えるんだ」
+# banquet diva
+  - id: 165
+    text: "こんなに気持ちいいお湯だと、お仕事で来たこと、忘れちゃうな…。はぁ…LIVEも頑張ろう。みんなと…！"
+    type: affiliation
+    rarity: s_rare
+    training: 0
+  - id: 166
+    text: "はぁ…温泉なんて、って思ってたけど…こういうのも悪くないかな…。二人が居たのは予想外だったけど…でも､今夜のこともきっとこれから活かしていけるかな。はぁ…"
+    type: profile
+    rarity: affiliation
+    training: 0
+  - id: 167
+    text: "大人になりたいって思う私はまだ子供なのかも…なんてね"
+    type: dear_up
+    rarity: s_rare
+    training: 0
+  - id: 168
+    text: "#プロデューサーには…秘密なんだ。いいの。大人のおねーさんたちが約束してくれたからね。ふふっ"
+    type: dear_max
+    rarity: s_rare
+    training: 0
+  - id: 169
+    text: "行くよ、二人とも！"
+    type: leader
+    rarity: s_rare
+    training: 0
+  - id: 170
+    text: "なんか…恥ずかしくなってきた"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 171
+    text: "ふふ、こういうのも悪くないね"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 172
+    text: "あの、お酒はちょっと、あの"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 173
+    text: "肌と肌のふれあいなんてって思ってたけど…悪くない、かな"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 174
+    text: "プロデューサー、どうしてるかな。…ってなんでプロデューサーの事なんか"
+    type: greeting
+    training: 0
+  - id: 175
+    text: "心機一転…って感じかな"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 176
+    text: "ふぅ…そろそろいこうか"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 177
+    text: "もうお仕事？ ちょっと待って！"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 178
+    text: "私、気付いたんだ。独りで前ばっかり見ててもダメなんだって"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 179
+    text: "#プロデューサー…私、これからも走り続けるよ。皆と…"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 180
+    text: "私は独りで走ってるつもりだったけど、違ったんだ。きっとみんながいるから輝けるんだって、今は思う。だから…このステージはきっと成功させてみせる！見てて！#プロデューサー！"
+    type: profile
+    rarity: s_rare
+    training: 1
+  - id: 181
+    text: "#プロデューサー、いつもありがとう…なんて、ベタかな"
+    type: dear_up
+    rarity: s_rare
+    training: 1
+  - id: 182
+    text: "#プロデューサーは引率の先生なんかじゃなかったよ。私たちのプロデューサーは、アンタしかいないってこと。なんてね"
+    type: dear_max
+    rarity: s_rare
+    training: 1
+  - id: 183
+    text: "きっと、届けるから！"
+    type: leader
+    rarity: s_rare
+    training: 1
+  - id: 184
+    text: "なんか…恥ずかしくなってきた"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 185
+    text: "ふふ、こういうのも悪くないね"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 186
+    text: "和服慣れないな…動きづらいし"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 187
+    text: "#プロデューサー、温泉は楽しめた？…どうしたの？"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 188
+    text: "#プロデューサーも和装になってみたら？気分、変わるよ"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 189
+    text: "心機一転…って感じかな"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 190
+    text: "ふぅ…そろそろいこうか"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 191
+    text: "うん。準備はもう出来てるから"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 192
+    text: "未央、卯月、行くよ。私たちならできるから。きっと…絶対ね"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 193
+    text: "皆だけじゃない。#プロデューサーがいるから歌えるんだ"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 194
+    text: "どんなときだって全力を尽くすよ。それがアイドル、そうでしょ？"
+    type: encountering
+    rarity: s_rare
+    training: 0
+  - id: 195
+    text: "今年の…集大成だね！"
+    type: live_start
+    rarity: s_rare
+    training: 0
+  - id: 196
+    text: "届いたかな、私の歌…。2人には、カッコいいところ見せたいしね"
+    type: live_victory
+    rarity: s_rare
+    training: 0
+  - id: 197
+    text: "熱くなってきたね。競い合いながら、行こうよ。もっと先へ！"
+    type: live_draw
+    rarity: s_rare
+    training: 0
+  - id: 198
+    text: "ふーん、そっちも準備してきたんだね。その姿勢は好きかな"
+    type: live_defeat
+    rarity: s_rare
+    training: 0
+
 #
 # 出現時	「どんなときだって全力を尽くすよ。それがアイドル、そうでしょ？」
 # Live開始時	「今年の…集大成だね！」
