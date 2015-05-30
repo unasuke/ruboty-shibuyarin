@@ -441,40 +441,153 @@
     type: live_defeat
     rarity: s_rare
     training: 0
+# CD debut
+  - id: 88
+    text: "#プロデューサー、私ついにCDデビュー出来たよ。ずっと…隣にいてくれたからかな？ふふっ、これからも一緒に頑張ろうね"
+    type: affiliation
+    rarity: s_rare
+    training: 0
+  - id: 89
+    text: "CDデビューなんて特別でも何でもないけど､やっぱり嬉しいな｡プロデューサーもちゃんと仕事してるんだね｡……ふふっ､冗談｡私がここまで来られたのもプロデューサーのおかげだよ｡ありがと"
+    type: profile
+    rarity: s_rare
+    training: 0
+  - id: 90
+    text: "……ありがとう、#プロデューサー"
+    type: dear_up
+    rarity: s_rare
+    training: 0
+  - id: 91
+    text: "私ね、CDデビューってｺﾞｰﾙだと思ってた｡でも、違うんだね｡始まりなんだ｡それを教えてくれたのは#プロデューサーだよ"
+    type: dear_max
+    rarity: s_rare
+    training: 0
+  - id: 92
+    text: "……負けないから"
+    type: leader
+    rarity: s_rare
+    training: 0
+  - id: 93
+    text: "私は変わらず、いつも通りだよ"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 94
+    text: "……行こう、前を向いて"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 95
+    text: "忙しいけど、レッスンはしないとね"
+    type: s_rare
+    rarity: s_rare
+    training: 0
+  - id: 96
+    text: "#プロデューサー、今回の衣装ちょっと雰囲気違うね"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 97
+    text: "#プロデューサーの考え、もっと聞かせて"
+    type: greeting
+    rarity: s_rare
+    training: 0
+  - id: 98
+    text: "CDデビューか…。ふふっ"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 99
+    text: "私の歌、どうだった？"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 100
+    text: "ここは私に任せてほしいな"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 101
+    text: "学校の友達に、凛のCD買ったよって言われて｡……やっぱ嬉しいな"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 102
+    text: "#プロデューサー、期待してもいいよ"
+    type: end_of_work
+    rarity: s_rare
+    training: 0
+  - id: 103
+    text: "アイドルなのにガールズバンド風って不思議だね｡でも､ちょっと意外で面白いかも｡前は､そんなこと絶対に思わなかったけど､これもプロデューサーの影響かな? ……なんてね"
+    type: profile
+    rarity: s_rare
+    training: 1
+  - id: 104
+    text: "#プロデューサー､まだまだトップは遠いよ"
+    type: dear_up
+    rarity: s_rare
+    training: 1
+  - id: 105
+    text: "#プロデューサー、これからも2人でずっと、トップを目指して走って行こうね。……約束だよ。ふふっ。私のプロデューサーさん"
+    type: dear_max
+    rarity: s_rare
+    training: 1
+  - id: 106
+    text: "本気の勝負だね"
+    type: leader
+    rarity: s_rare
+    training: 1
+  - id: 107
+    text: "#プロデューサー､私たち､まだまだだよね"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 108
+    text: "私は変わらず､いつも通りだよ"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 109
+    text: "忙しいけど､レッスンはしないとね"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 110
+    text: "ベースって面白いね"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 111
+    text: "プロデューサー､本当は私､少しだけ緊張してるんだ"
+    type: greeting
+    rarity: s_rare
+    training: 1
+  - id: 112
+    text: "#プロデューサーは楽器弾ける？"
+    text: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 113
+    text: "ここは私に任せてほしいな"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 114
+    text: "ベースは､フリだけ｡…今はね"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 115
+    text: "私の歌､どうだった？"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
+  - id: 116
+    text: "#プロデューサー､私の隣にいてね"
+    type: end_of_work
+    rarity: s_rare
+    training: 1
 
-# 加入時コメント	「○○ﾌﾟﾛﾃﾞｭｰｻｰ、私ついにCDﾃﾞﾋﾞｭｰ出来たよ。ずっと…隣にいてくれたからかな?
-# ふふっ、これからも一緒に頑張ろうね」
-# プロフィールコメント	「CDﾃﾞﾋﾞｭｰなんて特別でも何でもないけど､やっぱり嬉しいな｡ﾌﾟﾛﾃﾞｭｰｻｰもちゃんと仕事してるんだね｡
-# ……ふふっ､冗談｡私がここまで来られたのもﾌﾟﾛﾃﾞｭｰｻｰのおかげだよ｡ありがと」
-# 親愛度ＵＰコメント	表示 「･･････ありがとう、○○ﾌﾟﾛﾃﾞｭｰｻｰ」
-# 親愛度ＭＡＸコメント	表示 「私ね、CDﾃﾞﾋﾞｭｰってｺﾞｰﾙだと思ってた｡でも、違うんだね｡始まりなんだ｡
-# それを教えてくれたのは○○ﾌﾟﾛﾃﾞｭｰｻｰだよ」
-# リーダーコメント	「……負けないから」
-# あいさつ	「私は変わらず、いつも通りだよ」
-# あいさつ	「……行こう、前を向いて」
-# あいさつ	「忙しいけど、ﾚｯｽﾝはしないとね」
-# あいさつ	「○○ﾌﾟﾛﾃﾞｭｰｻｰ、今回の衣装ちょっと雰囲気違うね」
-# あいさつ	表示 「○○ﾌﾟﾛﾃﾞｭｰｻｰの考え、もっと聞かせて」
-# 仕事終了時	「CDﾃﾞﾋﾞｭｰか…。ふふっ」
-# 仕事終了時	「私の歌、どうだった？」
-# 仕事終了時	「ここは私に任せてほしいな」
-# 仕事終了時	「学校の友達に、凛のCD買ったよって言われて｡･･･やっぱ嬉しいな」
-# 仕事終了時	表示 「○○ﾌﾟﾛﾃﾞｭｰｻｰ、期待してもいいよ」
-#
-# プロフィールコメント	「ｱｲﾄﾞﾙなのにｶﾞｰﾙｽﾞﾊﾞﾝﾄﾞ風って不思議だね｡でも､ちょっと意外で面白いかも｡前は､そんなこと絶対に思わなかったけど､これもﾌﾟﾛﾃﾞｭｰｻｰの影響かな? ……なんてね」
-# 親愛度ＵＰコメント	表示 「○○ﾌﾟﾛﾃﾞｭｰｻｰ､まだまだﾄｯﾌﾟは遠いよ」
-# 親愛度ＭＡＸコメント	表示 「○○ﾌﾟﾛﾃﾞｭｰｻｰ、これからも2人でずっと、ﾄｯﾌﾟを目指して走って行こうね。……約束だよ。ふふっ。私のﾌﾟﾛﾃﾞｭｰｻｰさん」
-# リーダーコメント	「本気の勝負だね」
-# あいさつ	「○○ﾌﾟﾛﾃﾞｭｰｻｰ､私たち､まだまだだよね」
-# あいさつ	「私は変わらず､いつも通りだよ」
-# あいさつ	「忙しいけど､ﾚｯｽﾝはしないとね」
-# あいさつ	「ﾍﾞｰｽって面白いね」
-# あいさつ	表示 「ﾌﾟﾛﾃﾞｭｰｻｰ､本当は私､少しだけ緊張してるんだ」
-# 仕事終了時	「○○ﾌﾟﾛﾃﾞｭｰｻｰは楽器弾ける?」
-# 仕事終了時	「ここは私に任せてほしいな」
-# 仕事終了時	「ﾍﾞｰｽは､ﾌﾘだけ｡…今はね」
-# 仕事終了時	「私の歌､どうだった?」
-# 仕事終了時	表示 「○○ﾌﾟﾛﾃﾞｭｰｻｰ､私の隣にいてね」
 #
 # プロフィールコメント	「ふふっ、プロデューサー、私のためにありがとう。こんなに素敵なドレスを着せてもらって、こんなに素敵なステージまで用意してもらったら…あとは頑張るしかないね。全力で、駆け抜けてみせるから」
 # 親愛度ＵＰコメント	表示 「○○プロデューサー、私たちなら最高のステージを作れるよね」
