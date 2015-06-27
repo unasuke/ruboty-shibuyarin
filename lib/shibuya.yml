@@ -1000,13 +1000,72 @@
     type: live_defeat
     rarity: s_rare
     training: 0
-
-#
-# 出現時	「どんなときだって全力を尽くすよ。それがアイドル、そうでしょ？」
-# Live開始時	「今年の…集大成だね！」
-# 勝利	「届いたかな、私の歌…。二人には、ｶｯｺいいところ見せたいしね」
-# 引き分け	「熱くなってきたね。競い合いながら、行こうよ。もっと先へ！」
-# 敗北	「ふーん、そっちも準備してきたんだね。その姿勢は好きかな」
+# 2nd anniversary
+  - id: 199
+    text: "え、そんな急にカメラ向けられても困るよ。私だって、色々準備が…"
+    type: affiliation
+    rarity: rare
+    training: 0
+  - id: 200
+    text: "#プロデューサー、いつも仕事ばっかりだよね。たまにはゆっくりしたらどう？まぁ、私はレッスンとかしたいけど。ほら、アニバーサリーLIVEもあるしね。やる以上は完璧にしたいじゃない？"
+    type: profile
+    rarity: rare
+    training: 0
+  - id: 201
+    text: "まぁ､人に優しくしても損はないかなって…それだけだよ､もう"
+    type: dear_up
+    rarity: rare
+    training: 0
+  - id: 202
+    text: "私、実力ついてきてるかな。自分で自分のことってわからないからさ。#プロデューサーに見てもらわなくちゃ。でしょ？"
+    type: dear_max
+    rarity: rare
+    training: 0
+  - id: 203
+    text: "あれ？もうリハ？"
+    type: leader
+    rarity: rare
+    training: 0
+  - id: 204
+    text: "みんな、浮かれてるね。ふふ"
+    type: greeting
+    rarity: rare
+    training: 0
+  - id: 205
+    text: "卯月も未央も浮かれてるね。ま、たまにはそういうのもいいよね"
+    type: greeting
+    rarity: rare
+    training: 0
+  - id: 206
+    text: "サプライズ…えっと、何の話？"
+    type: greeting
+    rarity: rare
+    training: 0
+  - id: 207
+    text: "まぁ、お祝いくらい…いいか"
+    type: greeting
+    rarity: rare
+    training: 0
+  - id: 208
+    text: "し…しぶにゃんこ…"
+    type: greeting
+    rarity: rare
+    training: 0
+  - id: 209
+    text: "#プロデューサー、付き合うよ。え、あぁ、話とか…ない？"
+    type: greeting
+    rarity: rare
+    training: 0
+  - id: 210
+    text: "あ、#プロデューサー、卯月と未央の調子はどうかな？"
+    type: end_of_work
+    rarity: rare
+    training: 0
+  - id: 211
+    text: "そうだね、特別な一日だよね"
+    type: end_of_work
+    rarity: rare
+    training: 0
 #
 # シャッターチャンス加入時	「え、そんな急にカメラ向けられても困るよ。私だって、色々準備が…」
 # プロフィールコメント	「○○プロデューサー、いつも仕事ばっかりだよね。たまにはゆっくりしたらどう?
