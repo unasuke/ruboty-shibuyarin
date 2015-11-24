@@ -43,15 +43,10 @@ describe Ruboty::Handlers::Shibuyarin do
     end
 
     it "should post '呼んだ？' when message include /rin|凛|渋谷凛|しぶりん/" do
-
       message[:text] = "rin"
-
       action = Ruboty::Shibuyarin::Actions::Reaction.new(message)
-
       actual = action.send(:call)
-      
       expect(actual).to eq("呼んだ？")
-
     end
   end
 end
